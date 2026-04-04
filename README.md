@@ -77,7 +77,7 @@ Missing uppercase letter
 Missing digit
 
 Enter password: Hello123
-Password is strong ✅
+Password is strong 
 ```
 
 ---
