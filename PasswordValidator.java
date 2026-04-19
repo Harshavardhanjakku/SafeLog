@@ -6,10 +6,10 @@ class PasswordValidator
     {
         Scanner sc = new Scanner(System.in); 
         
-        Boolean lengthFlag = false;
-        Boolean uppercaseFlag = false;
-        Boolean digitFlag = false;
-        Boolean isPasswordStrong = false;
+        boolean lengthFlag = false;
+        boolean uppercaseFlag = false;
+        boolean digitFlag = false;
+        boolean isPasswordStrong = false;
 
         do
         {
